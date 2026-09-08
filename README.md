@@ -339,7 +339,7 @@ http://localhost/Banking-System/
 ## 👨‍💻 Author
 
 **Shahrier Shanto**
-GitHub: [akira2049](https://github.com/akira2049)
+GitHub: [cloud-pantheon](https://github.com/cloud-pantheon)
 
 ---
 
